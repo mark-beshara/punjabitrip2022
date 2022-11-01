@@ -32,4 +32,4 @@ setInterval(
       backgroundImages[index].setAttribute('style', new_style) 
     }    
 
-  }, 3000)
+  }, 4000)
